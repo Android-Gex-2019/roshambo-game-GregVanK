@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Author: Greg VanKampen
-    File: activity_main
+    File: activity_main(landscape)
     Date: 3/8/2019
 -->
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -15,7 +15,6 @@
         android:id="@+id/image_rockButton"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="24dp"
         android:onClick="onRockPress"
         app:layout_constraintEnd_toStartOf="@+id/image_paperButton"
         app:layout_constraintHorizontal_bias="0.5"

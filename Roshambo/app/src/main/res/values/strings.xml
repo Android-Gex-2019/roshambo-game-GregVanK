@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Roshambo</string>
+    <string name="player_description">Your Move</string>
+    <string name="computer_description">Game\'s Move</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="draw">DRAW</string>
+    <string name="result_placeholder">WIN/LOSE/DRAW</string>
+
 </resources>
